@@ -1,0 +1,13 @@
+Store_ID,Store_Name,City,State,Region,Store_Type
+S001,Imphal Central,Imphal,Manipur,North East,Dealer
+S002,Imphal East,Porompat,Manipur,North East,Dealer
+S003,Guwahati Main,Guwahati,Assam,North East,Dealer
+S004,Shillong Motors,Shillong,Meghalaya,North East,Dealer
+S005,Kolkata Auto Hub,Kolkata,West Bengal,East,Dealer
+S006,Delhi Bike World,New Delhi,Delhi,North,Dealer
+S007,Bengaluru Mobility,Bengaluru,Karnataka,South,Dealer
+S008,Dimapur Wheels,Dimapur,Nagaland,North East,Dealer
+S009,Aizawl Motors,Aizawl,Mizoram,North East,Dealer
+S010,Patna Riders,Patna,Bihar,East,Dealer
+S001,Imphal Central,Imphal,Manipur,North East,Dealer
+S003,Guwahati Main,Guwahati,Assam,North East,Dealer
